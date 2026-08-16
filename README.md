@@ -26,38 +26,17 @@ I love turning problems into practical solutions and continuously improving my s
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
-
-
-
-
-\
+`Java`
+`Python`
 
 ### 🌐 Frontend
-
-
-\
+`HTML`
+`CSS`
 
 ### ⚙️ Backend
-
-
-\
-
+`JAVA`
 ### 🗄️ Database
-
-\
-
-### 🤖 AI & Data
-
-
-
-\
-
-### 🔧 Tools & Technologies
-
-
-
-
-\
+`MYSQL`
 
 ---
 
